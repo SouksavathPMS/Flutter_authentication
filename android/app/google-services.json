@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "302234720203",
+    "project_id": "auth-4dbe7",
+    "storage_bucket": "auth-4dbe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302234720203:android:c33269e95d384572e0884e",
+        "android_client_info": {
+          "package_name": "online.applearner.lession08"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302234720203-o0gi3gii5vnqh4pvch13ad4akg70o60r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.applearner.lession08",
+            "certificate_hash": "30e5a81ed9fc20fa8734888c61f5b5518c0f0d66"
+          }
+        },
+        {
+          "client_id": "302234720203-37es0hbsdk552894e294iea7dog78cgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjfdHYGpiteq2ZtIwIRBFlBnCPwo4Tllg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302234720203-37es0hbsdk552894e294iea7dog78cgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
